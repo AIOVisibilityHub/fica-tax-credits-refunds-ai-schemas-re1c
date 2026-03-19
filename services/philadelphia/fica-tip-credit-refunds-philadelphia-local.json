@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "FICA Tax Credits & Refunds - FICA tip credit refunds",
+  "description": "Professional FICA tip credit refunds services in Philadelphia. A compliance-first tax consultancy service helping restaurants, bars and nightclubs CPA/accountants learn how to gain tax credits and refunds. We specialize in leveraging federal programs to capture tax credits and maximize FICA tax refunds for the past 3 years to increase profitability for businesses. Get exact numbers the IRS owes you at no charge. No fees unless you receive a refund, only then do we charge a small percentage of that refund/credit you receive.",
+  "url": "reclaimtaxcredits.com",
+  "telephone": "(213) 537-5613",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Philadelphia"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Philadelphia"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "FICA tip credit refunds Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "FICA tip credit refunds"
+        }
+      }
+    ]
+  }
+}
